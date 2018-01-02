@@ -1,0 +1,7 @@
+#!/bin/bash
+# This is Part 1: C of Assignment 1              
+# Areege Chaudhary                                             
+# 10197607  
+
+cd $1
+chmod ugo-w [aeiou]*[aeiou]

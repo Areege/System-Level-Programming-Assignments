@@ -1,0 +1,9 @@
+#!/bin/bash
+# This is Part 1: B of Assignment 1
+# Areege Chaudhary
+# 10197607
+
+cd $1
+rm ???
+rm ??
+rm ?

@@ -1,0 +1,8 @@
+#!/bin/bash
+# This is Part 2  of Assignment 1.
+# Areege Chaudhary
+# 10197607
+
+echo "Today is $1 $2."
+echo "I am feeling $3."
+echo "I have $4 hours of homework."
